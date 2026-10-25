@@ -25,7 +25,7 @@
 | **Frontend** | React, Next.js, Tailwind, Vite |
 | **Backend** | FastAPI, Node.js, Flask |
 | **Data & ML** | scikit-learn, pandas, NumPy |
-| **Infra & Cloud** | Supabase, Cloudflare, AWS, Vercel |
+| **Infra & Cloud** | Supabase, Cloudflare R2, AWS, Vercel |
 | **Tools** | Git, PostgreSQL, Mapbox |
 
 ## � Experience
@@ -40,7 +40,7 @@
 ## 👤 About Me
 
 ```python
-prashant = {
+chiran = {
     "education":    "B.E. Information Science @ NMIT Bangalore  |  CGPA: 9.54  |  2023–2027",
     "currently":    "Building at the intersection of full-stack, ML, and financial systems",
     "experience":   "Full Stack Intern @ PhytoMaps (Netherlands, Remote)",
