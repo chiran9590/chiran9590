@@ -41,8 +41,8 @@
 
 ```python
 chiran = {
-    "education":    "B.E. Information Science @ NMIT Bangalore  |  CGPA: 9.54  |  2023–2027",
-    "currently":    "Building at the intersection of full-stack, ML, and financial systems",
+    "education":    "B.E. Information Science @ NMIT Bangalore  |  CGPA: 7.85|  2023–2027",
+    "currently":    "Building at the intersection of full-stack, ML",
     "experience":   "Full Stack Intern @ PhytoMaps (Netherlands, Remote)",
 }
 ```
